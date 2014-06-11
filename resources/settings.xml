@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30000">
+        <setting id="language" type="labelenum" label="30010" lvalues="30011|30012|30013|30014|30019" />
+    </category>
+    <category label="30100">
+        <!--setting id="proxy" type="ipaddress" label="30110" /-->
+        <setting id="proxy" type="text" label="30110" />
+        <setting id="tmp_path" type="folder" source="auto" label="30120" />
+        <setting id="resolution" type="labelenum" label="30130" values="200|400|900|1300" />
+        <setting id="debug" type="bool" label="30140" default="false" />
+    </category>
+    <category label="30200">
+        <setting id="user_id" type="number" label="30210" />
+    </category>
+</settings>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<strings>
+    <string id="30000">general</string>
+    <string id="30010">language</string>
+    <string id="30011">German</string>
+    <string id="30012">French</string>
+    <string id="30013">English</string>
+    <string id="30014">Italian</string>
+    <string id="30019">All</string>
+
+    <string id="30100">wwwc</string>
+    <string id="30110">proxy</string>
+    <string id="30120">Temp path</string>
+    <string id="30130">Resolution</string>
+    <string id="30140">Debug mode</string>
+
+    <string id="30200">user</string>
+    <string id="30210">User ID</string>
+</strings>
